@@ -1,0 +1,86 @@
+ADD YOUR CUSTOM CSS TO THIS FILE */
+
+
+.carousel-inner {max-width: 1600px;
+max-height: 400px}
+
+.carousel-inner img {
+    object-fit: cover;
+    object-position: right;
+    height: 50vh;
+}
+
+.carousel-item img {
+    object-fit: cover;
+    object-position: center;
+    height: 50vh;
+}
+
+
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #C4A484;
+    } 
+
+body {background-color: #FEFBEA;}
+
+
+    .nav-link {color: #FFFFFF;
+    font-family:'Noto Serif', serif;
+font-weight: bold;
+font-size: 1.5em} 
+
+    .nav-link:hover {
+    color: whitesmoke;} 
+
+    .padded-image {margin-top:25px;
+            padding-block: 45px;
+            background-color: #33160C;
+            float:right;
+            
+    
+            }
+
+
+      h1 {font-family: initial;
+        color: #33160C;
+        } 
+
+        h3 {font-family:'Noto Serif', serif;
+        color: #33160C;
+        font-size: 150%;
+    margin-top:60px;}
+
+    img {
+  padding: 25px;
+  box-sizing: border-box;
+  background color: #77a08f;
+} 
+
+h2{text-align: center;
+    font-family: initial;
+
+        color: #33160C;
+}
+
+h4 {text-align: center;font-family:'Noto Serif', serif;
+        color: #33160C;
+        font-size: 100%;
+    margin-top:60px;
+}
+h5 {font-family:'Noto Serif', serif;
+        color: white;
+        font-size: 150%;
+    margin-top:30px;
+text-align:center;}
+
+
+#portfolio {background-color: #C4A484;} 
+
+#contact {
+background-color: #C4A484 ;
+
+}
+
+   
+
